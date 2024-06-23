@@ -28,10 +28,12 @@ This project contains Python scripts to calculate the area and perimeter of diff
    cd \Users\user\Documents
    ```
 
-![image](https://github.com/Brian-dotcom-stack/area-perimeter-calculator/assets/118678353/e8f14f7b-d0c3-4cf1-9da6-0d89faa15a5f)
+   ![image](https://github.com/Brian-dotcom-stack/area-perimeter-calculator/assets/118678353/64f0f6f5-8a5b-427e-8b55-11e4551bde16)
 
 4. **Run the Script:**
 
    ```sh
    python area_perimeter.py
    ```
+
+   ![image](https://github.com/Brian-dotcom-stack/area-perimeter-calculator/assets/118678353/0390d218-a5b9-4ccd-a928-fcae11a6db3a)
